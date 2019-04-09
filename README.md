@@ -1,2 +1,2 @@
 # Machine-Learning
-Coursework
+Stanford Machine Learning Coursework
